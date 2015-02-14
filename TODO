@@ -1,0 +1,6 @@
+
+1. pause system //DONE
+2. draw a single instance of each object, check working
+3. score system, and game ending condition
+4. randomize texture, or for each set make different texture, that would look more realistic. 6 textures
+5. if "mytime" b/w two clicks is == 0.01 then continue
